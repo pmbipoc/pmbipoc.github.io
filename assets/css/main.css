@@ -154,7 +154,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #444;
+		color: #2A1503;
 	}
 
 	i, em {
@@ -1491,7 +1491,7 @@ input, select, textarea {
 		font-weight: 800;
 		margin: 0 0 1em 0;
 		font-size: 0.8em;
-		color: #444;
+		color: #2A1503;
 	}
 
 	form input[type="text"],
@@ -1511,7 +1511,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #0090c5;
+			border-color: #7f461B;
 		}
 
 	form input[type="text"],
