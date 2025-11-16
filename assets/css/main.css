@@ -1986,7 +1986,7 @@ input, select, textarea {
 					transition: background-color .25s ease-in-out;
 					font-weight: 800;
 					letter-spacing: 0.025em;
-					color: #696969;
+					color: #2A1503;
 					text-decoration: none;
 					border-radius: 6px;
 					padding: 0.5em 1em 0.5em 1em;
@@ -2012,7 +2012,7 @@ input, select, textarea {
 	.dropotron {
 		background: #fff;
 		letter-spacing: 0.025em;
-		color: #696969;
+		color: #2A1503;
 		text-decoration: none;
 		border-radius: 6px;
 		padding: 0.75em 0;
@@ -2419,7 +2419,7 @@ input, select, textarea {
 					height: 54px;
 					line-height: 54px;
 					border-top: solid 1px #e8e8e8;
-					color: #696969;
+					color: #2A1503;
 				}
 
 					#navPanel .link:first-child {
