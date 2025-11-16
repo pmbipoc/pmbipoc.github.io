@@ -1532,19 +1532,19 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: #2A1503 !important;
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: #2A1503 !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #555 !important;
+		color: #2A1503 !important;
 	}
 
 	form :-ms-input-placeholder {
-		color: #555 !important;
+		color: #2A1503 !important;
 	}
 
 	form ::-moz-focus-inner {
@@ -1577,7 +1577,7 @@ input, select, textarea {
 		}
 
 		table thead {
-			background: #404248;
+			background: #2A1503;
 			color: #fff;
 		}
 
